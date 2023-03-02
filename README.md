@@ -27,6 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+  
 https://imgur.com/gallery/1cJ9rA5
 
 Log into the OsTicket browser and make sure you are on the admin panel. Click agents>roles> add new role> create a supreme admin who can do every task and has all permissions.
